@@ -2,23 +2,28 @@
 
 ## Overall Direction
 
-レトロゲームの視認性と現代的なアニメーション品質を両立する。
+TBD
+
+> 決めること: 画風（ピクセルアート / 手描き / 3D 等）、解像感、色調、雰囲気。
 
 ## Reference
 
-Tails of Iron等の2Dアクションを「構図、コントラスト、シルエット、戦闘演出」の参考として分析する。
-特定作品のキャラクター、背景、ロゴ、固有デザインをコピーしない。
+TBD
+
+> 参考作品は「構図、コントラスト、シルエット、演出」などの観点で分析する。
+> 特定作品のキャラクター、背景、ロゴ、固有デザインをコピーしない。
 
 ## Character Requirements
 
-- Strong silhouette
-- Readable attack poses
-- Distinct enemy silhouettes
-- Consistent proportions
+TBD
+
+> 決めること: シルエット、攻撃ポーズの読みやすさ、敵同士の見分けやすさ、頭身などの要件。
 
 ## Environment Requirements
 
-背景と前景を明確に分離し、プレイヤーと敵を視認しやすくする。
+TBD
+
+> 決めること: 背景・前景とキャラクターの分離など、視認性の要件。
 
 ## Asset Consistency
 

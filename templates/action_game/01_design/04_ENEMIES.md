@@ -2,7 +2,9 @@
 
 ## Enemy Design Principle
 
-各敵は単なるHPの違いではなく、プレイヤーに異なる判断を要求する。
+TBD
+
+> 決めること: 敵同士の違いを何で作るか（HP・攻撃力の差か、プレイヤーに要求する判断の差か等）。
 
 ## Enemy Template
 
@@ -48,6 +50,6 @@ TBD
 
 ## Initial Prototype Enemies
 
-1. Basic Melee — 基本的な攻撃と回避を学ばせる
-2. Heavy Enemy — タイミングと距離管理を学ばせる
-3. Fast Enemy — 反応速度と優先順位を学ばせる
+TBD
+
+> 決めること: 最初のプロトタイプに入れる敵の数と、それぞれが教える内容。

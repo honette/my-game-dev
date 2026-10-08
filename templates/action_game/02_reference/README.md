@@ -4,7 +4,6 @@
 
 ## Current References
 
-- Tails of Iron — Combat / presentation reference
-- AI Game Development workflows — AI-assisted development process reference
+まだなし。
 
 参考資料は、そのまま仕様にコピーせず、ゲームデザイン上の原則へ変換して `01_design/` に反映する。

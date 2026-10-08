@@ -1,34 +1,34 @@
 # Game Vision
 
+> このテンプレートの `TBD` はすべて未決定。AIは選択肢と質問を提示し、決定は人間が行う。
+
 ## Working Title
 
 TBD
 
 ## High Concept
 
-レトロゲーム風の2D横スクロールアクション。
-敵の攻撃を観察し、攻撃種別に応じて防御行動を選択し、反撃の隙を作ることを中心とした戦闘を持つ。
+TBD
+
+> 決めること: 1〜2文で言えるゲームの核。視点（2D横スクロール / 見下ろし / 3D 等）、雰囲気、プレイヤーが主に何をするゲームか。
 
 ## Target Playtime
 
-約6時間。
+TBD
+
+> 決めること: クリアまでの想定時間。ボス数・ステージ数・制作規模の基準になる。
 
 ## Design Pillars
 
-1. Readable Combat
-2. Responsive Controls
-3. Meaningful Enemy Patterns
-4. Exploration With Purpose
-5. Strong Visual Feedback
-6. Compact but Dense World
+TBD
+
+> 決めること: 設計判断に迷ったときの拠り所になる柱（目安3〜6個）。仕様の追加・削除はこの柱に照らして判断する。
 
 ## Desired Player Experience
 
-- 敵の攻撃を見切ったときに気持ちいい
-- 初見では苦戦するが、再挑戦すると明確に上達を感じる
-- 新しい敵を見た瞬間に「こいつはどう戦うんだ？」と思う
-- ボス撃破に運ではなく理解と技術を感じる
-- 短い探索でも発見の報酬がある
+TBD
+
+> 決めること: プレイヤーにどんな瞬間・感情を体験してほしいか。具体的な場面で書く。
 
 ## Reference Philosophy
 

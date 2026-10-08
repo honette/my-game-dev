@@ -14,24 +14,13 @@ TBD
 
 ## Progression
 
-TBD
+TBD — See `07_PROGRESSION.md`.
 
 ## Animation Requirements
 
-最低限必要な状態:
+TBD
 
-- Idle
-- Run
-- Jump
-- Fall
-- Light Attack
-- Heavy Attack
-- Block
-- Parry
-- Dodge / Roll
-- Hit
-- Death
-- Interact
+> 決めること: `02_COMBAT.md` の Player Actions に対応する状態（Idle, Run, 各アクション, Hit, Death 等）を列挙する。
 
 ## Design Constraint
 

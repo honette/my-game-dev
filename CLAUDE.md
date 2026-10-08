@@ -6,8 +6,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 「AIと一緒に作るゲーム設計」のための Markdown ナレッジベース。現時点でコード・ビルド・テストは存在しない（Phase 0 — Design）。
 
-- `template/` — 新規ゲーム用の雛形。**参照専用・変更禁止**（`template/README.md`）。ユーザーが明示的に許可した場合のみ編集する。
-- `my_first_game/` — `template/` を複製した実際のゲームプロジェクト。設計作業はここで行う。
+- `templates/<genre>/` — ジャンル別の新規プロジェクト用雛形（現在は `action_game/` のみ。他ジャンルは必要になってから作る）。**参照専用・変更禁止。** ユーザーが明示的に許可した場合のみ編集する。雛形の値はすべて `TBD` で、`> 決めること:` の注記は検討の観点であり決定済みの仕様ではない。
+  - 新規プロジェクトはリポジトリ直下に雛形フォルダを複製して作り、`README.md` のタイトルと概要を書き換える。
+- `my_first_game/` — 旧テンプレート（2Dアクションのサンプル値入り）から複製した実際のゲームプロジェクト。設計作業はここで行う。サンプル値は未確定の下書きとして扱う。
   - `README.md` — 人間とAIの共同設計ルール（最重要。作業前に必ず読む）
   - `01_design/` — 正式な仕様。`00_AI_DEVELOPMENT_PROTOCOL.md` が作業手順とフェーズ定義（Phase 0〜6）、`01`〜`09` が各領域の仕様、`99_PROGRESS.md` が現在フェーズ・次タスク・Decision Log
   - `02_reference/` — 参考作品・分析。仕様へは直接コピーせず、設計原則に変換して `01_design/` に反映する

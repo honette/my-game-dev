@@ -2,46 +2,35 @@
 
 ## Core Loop
 
-Observe → Recognize → Defend → Create Opening → Attack → Recover → Repeat
+TBD
 
-## Defensive Responses
-
-攻撃には視覚的な予兆を持たせる。
-
-- 通常攻撃: Block / Dodge
-- Parry可能攻撃: Parry
-- Unblockable: Dodge
-- 広範囲攻撃: 距離を取る / Roll
-- 遠距離攻撃: Dodge / Block
-
-※具体的な色やUI記号はプロトタイプで検証し、固定仕様にする前に更新する。
-
-## Combat Goals
-
-- 入力遅延を感じさせない
-- ヒット、被弾、Parry成功を明確に伝える
-- 敵の攻撃モーションだけで次の行動を判断できる
-- 攻撃を連打するだけでは安定して勝てない
-- 防御成功には明確なリターンを与える
+> 決めること: 1回の戦闘でプレイヤーが繰り返す行動の流れ。
 
 ## Player Actions
 
-TBD:
-- Move
-- Jump
-- Light Attack
-- Heavy Attack
-- Block
-- Parry
-- Dodge / Roll
-- Ranged Attack
-- Interact
+TBD
+
+> 決めること: 戦闘・移動で使うアクションの一覧（移動、ジャンプ、攻撃の種類、防御手段、回避、遠距離攻撃、インタラクト等から取捨選択）。
+
+## Attack Types & Defensive Responses
+
+TBD
+
+> 決めること: 敵の攻撃の種類と、それぞれに対してプレイヤーが取るべき対応。攻撃の予兆をどう見せるか。
+> 色やUI記号などの具体的な表現は、プロトタイプで検証してから固定する。
+
+## Combat Goals
+
+TBD
+
+> 決めること: 戦闘の手触りとして満たすべき条件（操作の応答性、ヒット/被弾の伝わり方、連打だけで勝てるか、防御成功のリターン等）。
 
 ## Damage Model
 
 TBD
 
-## Stamina
+## Resources
 
-現時点ではスタミナ依存の戦闘を必須としない。
-戦闘の面白さを損なう場合は採用しない。
+TBD
+
+> 決めること: スタミナ・MP・弾数などの戦闘リソースを採用するか。採用する場合、それが戦闘の面白さにどう寄与するか。
