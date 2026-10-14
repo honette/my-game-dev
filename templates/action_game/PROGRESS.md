@@ -1,5 +1,7 @@
 # Development Progress
 
+書き方は `process/DOC_CONVENTIONS.md` の「PROGRESS.md」を参照。
+
 ## Current Phase
 
 Phase 0 — Design
@@ -18,8 +20,7 @@ Phase 0 — Design
 2. Player actions
 3. Combat system
 4. Enemy design
-5. Prototype scope
-6. Vertical slice definition
+5. Phase 1 handoff（`03_handoff/PHASE_1_CORE_PROTOTYPE.md`）
 
 ## Decision Log
 

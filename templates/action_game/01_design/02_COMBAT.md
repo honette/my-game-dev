@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 # Combat System
 
 ## Core Loop

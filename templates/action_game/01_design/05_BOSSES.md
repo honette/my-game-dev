@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 # Boss Design
 
 ## Boss Philosophy

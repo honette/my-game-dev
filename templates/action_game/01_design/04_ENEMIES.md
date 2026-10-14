@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 # Enemy Design
 
 ## Enemy Design Principle

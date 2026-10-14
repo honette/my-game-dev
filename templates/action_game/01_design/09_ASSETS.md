@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 # Asset Management
 
 ## Asset Categories
